@@ -1,19 +1,28 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Breaking Chains 0x11C8 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Wanna be done with these nuisances? Here's a track for you to detach from those
+sorrows. It is simply an attempt to combine dance vocal and video making
+background music.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/18_Breaking-Chains-0x11C8.mp3
+  Size: 11091968        Blocks: 21664      IO Block: 4096   regular file
+Device: 253,2   Inode: 40768994    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-06 14:09:26.795221769 +0800
+Modify: 2025-11-06 14:09:26.799221787 +0800
+Change: 2025-11-06 14:09:26.799221787 +0800
+ Birth: 2025-07-20 11:08:31.443972859 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-06
+On YouTube since : 2026-08-22
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=yLxYOB6qr3M)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +55,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Breaking Chains 0x11C8
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-breaking-chains-0x11c8
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
